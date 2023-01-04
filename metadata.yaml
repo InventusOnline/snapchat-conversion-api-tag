@@ -1,4 +1,4 @@
 homepage: "https://inventus.online"
 versions:
-  - sha: sha_her
+  - sha: 7a575856b48c6ae102be1250b16d57566b9bc52b
     changeNotes: Initial release of Snapchat Conversion API Tag
